@@ -1,0 +1,16 @@
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\bin\Debug\TestForWindowsChrome2.exe.config
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\bin\Debug\TestForWindowsChrome2.exe
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\bin\Debug\TestForWindowsChrome2.pdb
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\TestForWindowsChrome2.csprojAssemblyReference.cache
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\MainWindow.g.cs
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\App.g.cs
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\TestForWindowsChrome2_MarkupCompile.cache
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\TestForWindowsChrome2_MarkupCompile.lref
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\App.baml
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\MainWindow.baml
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\StyleMainWindow.baml
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\TestForWindowsChrome2.g.resources
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\TestForWindowsChrome2.Properties.Resources.resources
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\TestForWindowsChrome2.csproj.GenerateResource.cache
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\TestForWindowsChrome2.exe
+C:\Users\sareh\source\repos\TestForWindowsChrome2\TestForWindowsChrome2\obj\Debug\TestForWindowsChrome2.pdb
